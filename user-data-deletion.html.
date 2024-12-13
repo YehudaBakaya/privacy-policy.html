@@ -6,15 +6,16 @@
     <title>User Data Deletion</title>
 </head>
 <body>
-    <h1>Delete Your Data</h1>
-    <p>If you would like to delete your account and data, please click the button below.</p>
-    <button onclick="deleteUserData()">Delete My Data</button>
+    <h1>User Data Deletion</h1>
+    <p>We take your privacy seriously. If you would like to delete your personal data, please follow the instructions below:</p>
 
-    <script>
-        function deleteUserData() {
-            // כאן תוכל להוסיף את הלוגיקה למחיקת הנתונים
-            alert("Your data has been deleted.");
-        }
-    </script>
+    <h2>How to Request Data Deletion</h2>
+    <p>To request the deletion of your personal data, please contact us at [your contact email] with the subject "Data Deletion Request". We will process your request as soon as possible.</p>
+
+    <h2>What Happens After Your Data is Deleted</h2>
+    <p>Once your data is deleted, you will no longer have access to your account and all personal information will be permanently removed from our systems.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about data deletion, please contact us at [your contact email].</p>
 </body>
 </html>
