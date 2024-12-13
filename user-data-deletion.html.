@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data Deletion</title>
+</head>
+<body>
+    <h1>Delete Your Data</h1>
+    <p>If you would like to delete your account and data, please click the button below.</p>
+    <button onclick="deleteUserData()">Delete My Data</button>
+
+    <script>
+        function deleteUserData() {
+            // כאן תוכל להוסיף את הלוגיקה למחיקת הנתונים
+            alert("Your data has been deleted.");
+        }
+    </script>
+</body>
+</html>
